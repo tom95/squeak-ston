@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "SvenVanCaekenberghe 10/8/2018 15:45",
-	"super" : "BaselineOf",
 	"category" : "BaselineOfSton",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SvenVanCaekenberghe 10/8/2018 15:45",
+	"instvars" : [
+		 ],
 	"name" : "BaselineOfSton",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

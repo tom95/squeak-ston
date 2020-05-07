@@ -1,0 +1,8 @@
+OrderedDictionary {
+	'repository/BaselineOfSton.package' : #SquotCypressCodeSerializer,
+	'repository/ConfigurationOfSton.package' : #SquotCypressCodeSerializer,
+	'repository/STON-Core.package' : #SquotCypressCodeSerializer,
+	'repository/STON-Tests.package' : #SquotCypressCodeSerializer,
+	'repository/STON-Text support.package' : #SquotCypressCodeSerializer,
+	'repository/STON-Pharo-Core.package' : #SquotCypressCodeSerializer
+}

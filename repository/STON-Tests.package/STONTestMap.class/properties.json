@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "Dictionary",
 	"category" : "STON-Tests-Support",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "STONTestMap",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Dictionary",
+	"type" : "normal" }

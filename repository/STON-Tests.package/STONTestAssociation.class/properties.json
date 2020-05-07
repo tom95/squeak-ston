@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "Association",
 	"category" : "STON-Tests-Support",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"timestamp"
-	],
+		"timestamp" ],
 	"name" : "STONTestAssociation",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Association",
+	"type" : "normal" }

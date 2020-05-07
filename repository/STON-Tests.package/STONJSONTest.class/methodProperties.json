@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"environment" : " 5/7/2020 21:09:59",
+		"testBooleans" : " 5/7/2020 21:09:59",
+		"testCircular" : " 5/7/2020 21:09:59",
+		"testFloats" : " 5/7/2020 21:09:59",
+		"testIntegers" : " 5/7/2020 21:09:59",
+		"testLists" : " 5/7/2020 21:09:59",
+		"testMaps" : " 5/7/2020 21:09:59",
+		"testNull" : " 5/7/2020 21:09:59",
+		"testOrderedDictionary" : " 5/7/2020 21:09:59",
+		"testShared" : " 5/7/2020 21:09:59",
+		"testStrings" : " 5/7/2020 21:09:59",
+		"testUnknown" : " 5/7/2020 21:09:59" } }

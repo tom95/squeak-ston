@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "STONStreamWriter",
 	"category" : "STON-Core-Writer",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "STONListWriter",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "STONStreamWriter",
+	"type" : "normal" }

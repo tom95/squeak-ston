@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"fromSton:" : "5/7/2020 21:03:38",
+		"stonAllInstVarNames" : "5/7/2020 21:03:38",
+		"stonName" : "5/7/2020 21:03:38" },
+	"instance" : {
+		"fromSton:" : "5/7/2020 21:03:38",
+		"isStonReference" : "5/7/2020 21:03:38",
+		"stonContainSubObjects" : "5/7/2020 21:03:38",
+		"stonOn:" : "5/7/2020 21:03:38",
+		"stonPostReferenceResolution" : "5/7/2020 21:03:38",
+		"stonProcessSubObjects:" : "5/7/2020 21:03:38",
+		"stonShouldWriteNilInstVars" : "5/7/2020 21:03:38" } }

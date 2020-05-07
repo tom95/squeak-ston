@@ -1,13 +1,11 @@
 {
-	"commentStamp" : "",
-	"super" : "Object",
 	"category" : "STON-Core-Writer",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
 		"STONCharacters",
-		"STONSimpleSymbolCharacters"
-	],
+		"STONSimpleSymbolCharacters" ],
+	"commentStamp" : "",
 	"instvars" : [
 		"writeStream",
 		"prettyPrint",
@@ -18,8 +16,9 @@
 		"keepNewLines",
 		"referencePolicy",
 		"level",
-		"objects"
-	],
+		"objects" ],
 	"name" : "STONWriter",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

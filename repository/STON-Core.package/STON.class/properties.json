@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "SvenVanCaekenberghe 10/9/2018 21:14",
-	"super" : "Object",
 	"category" : "STON-Core-Facade",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SvenVanCaekenberghe 10/9/2018 21:14",
+	"instvars" : [
+		 ],
 	"name" : "STON",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

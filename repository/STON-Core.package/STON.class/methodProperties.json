@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"associationClass" : "5/7/2020 21:03:38",
+		"classNameKey" : "5/7/2020 21:03:38",
+		"fromStream:" : "5/7/2020 21:03:38",
+		"fromStreamWithComments:" : "5/7/2020 21:03:38",
+		"fromString:" : "5/7/2020 21:03:38",
+		"fromStringWithComments:" : "5/7/2020 21:03:38",
+		"jsonWriter" : "5/7/2020 21:03:38",
+		"listClass" : "5/7/2020 21:03:38",
+		"mapClass" : "5/7/2020 21:03:38",
+		"put:asJsonOnStream:" : "5/7/2020 21:03:38",
+		"put:asJsonOnStreamPretty:" : "5/7/2020 21:03:38",
+		"put:onStream:" : "5/7/2020 21:03:38",
+		"put:onStreamPretty:" : "5/7/2020 21:03:38",
+		"reader" : "5/7/2020 21:03:38",
+		"toJsonString:" : "5/7/2020 21:03:38",
+		"toJsonStringPretty:" : "5/7/2020 21:03:38",
+		"toString:" : "5/7/2020 21:03:38",
+		"toStringPretty:" : "5/7/2020 21:03:38",
+		"writer" : "5/7/2020 21:03:38" },
+	"instance" : {
+		 } }

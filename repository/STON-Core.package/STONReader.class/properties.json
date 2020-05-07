@@ -1,10 +1,10 @@
 {
-	"commentStamp" : "",
-	"super" : "Object",
 	"category" : "STON-Core-Reader",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
 		"readStream",
 		"objects",
@@ -13,8 +13,9 @@
 		"stringStream",
 		"acceptUnknownClasses",
 		"newLine",
-		"convertNewLines"
-	],
+		"convertNewLines" ],
 	"name" : "STONReader",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

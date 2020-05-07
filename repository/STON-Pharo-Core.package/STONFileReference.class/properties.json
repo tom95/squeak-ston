@@ -1,0 +1,14 @@
+{
+	"category" : "STON-Pharo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SvenVanCaekenberghe 10/11/2018 23:06",
+	"instvars" : [
+		 ],
+	"name" : "STONFileReference",
+	"pools" : [
+		 ],
+	"super" : "FileReference",
+	"type" : "normal" }
